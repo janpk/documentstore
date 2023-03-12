@@ -1,4 +1,7 @@
 [![build](https://github.com/janpk/documentstore/actions/workflows/build.yaml/badge.svg)](https://github.com/janpk/documentstore/actions/workflows/build.yaml)
+
+![Test](https://github.com/janpk/documentstore/blob/badges/test.svg)
+
 # documentstore
 
 A Playground repository, testing various stuff

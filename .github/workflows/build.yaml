@@ -26,7 +26,7 @@ jobs:
         uses: janpk/badge-to-path@main
         with:
           label: Test
-          status: Success
+          message: Success
           path: badges/test.svg
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Build
